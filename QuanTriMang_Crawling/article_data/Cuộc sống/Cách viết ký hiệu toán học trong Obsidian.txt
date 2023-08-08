@@ -1,0 +1,19 @@
+Bạn cần viết phương trình toán học trong Obsidian? Dưới đây là cách viết ký hiệu toán học dễ dàng và hiệu quả trong Obsidian.
+
+Obsidian là một ứng dụng ghi chú mạnh mẽ cho phép bạn sắp xếp và thiết lập cấu trúc các ghi chú. Thế nhưng nếu bạn cần ghi chú về một chủ đề liên quan đến các công thức toán học thì sao?
+Các ký hiệu toán học rất cần thiết trong nhiều lĩnh vực. May mắn thay, Obsidian có hỗ trợ tích hợp các ký hiệu toán học.
+Mặc dù có UI rộng rãi, ngay cả những trình soạn thảo văn bản như Microsoft Word cũng có thể gây khó khăn cho việc nhập các ký hiệu toán học. Do Obsidian thiếu giao diện người dùng nên thường bị cho rằng không thể viết toán trong nó. Tuy nhiên, điều này hoàn toàn sai.
+Thực tế, viết toán trong Obsidian đơn giản hơn trong Word, nhờ hỗ trợ riêng cho MathJax, một thư viện JavaScript cho phép người dùng nhập các ký hiệu toán học.
+
+Nhờ MathJax, bạn có thể viết các ký hiệu toán học bằng Obsidian một cách dễ dàng mà không cần di chuyển chuột. Tất cả công cụ cần thiết đều có sẵn trên bàn phím của bạn. Để bắt đầu viết một ký hiệu toán học, tất cả những gì bạn phải làm là đặt công thức rong ký hiệu đô la ($). Sử dụng ký hiệu đô la kép ($$) cho bộ một dòng.
+
+MathJax sử dụng các code cụ thể để nhập ký hiệu. Để nhập các ký tự đặc biệt, bạn có thể nhập mã cho ký hiệu sau dấu gạch chéo ngược (\). Khi viết ký hiệu toán học, dấu mũ (^) biểu thị chỉ số trên và dấu gạch dưới (_) biểu thị chỉ số dưới.
+Bạn có thể nhập công thức toán học trong Obsidian hiệu quả bằng cách hiểu các nguyên tắc cơ bản của cú pháp toán học và code dành riêng cho MathJax. Chẳng hạn, để nhập công thức tính diện tích hình tròn, bạn có thể sử dụng cú pháp dưới đây:
+Trong cú pháp này, \pi gọi biểu tượng cho số pi, và r^2 hiển thị r dưới dạng lũy thừa hai. Bạn có thể nhập các ký tự Hy Lạp khác theo cách tương tự: dấu gạch chéo ngược và tên của biểu tượng.
+
+Một cách sử dụng khác của MathJax là gõ phân số trong Obsidian:
+Sau khi nhập \frac vào cú pháp, bạn phải bao gồm hai dấu ngoặc nhọn đóng & mở. Nội dung của tập hợp đầu tiên sẽ là tử số,còn lại sẽ là mẫu số.
+
+Với kiến thức về MathJax trong Obsidian và code cho một ký hiệu cụ thể, bạn cũng có thể nhập các ký hiệu toán học phức tạp hơn như tổng, giới hạn, tích phân, v.v.
+Như bạn thấy, viết ký hiệu toán học trong Obsidian hoàn toàn có thể và đơn giản trên mọi nền tảng. Nhờ hỗ trợ riêng cho MathJax, bạn chỉ cần đặt công thức trong ký hiệu đô la.
+Hi vọng bài viết hữu ích với các bạn.

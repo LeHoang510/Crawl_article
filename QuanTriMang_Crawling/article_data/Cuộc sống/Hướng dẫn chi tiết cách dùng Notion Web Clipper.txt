@@ -1,0 +1,43 @@
+Bạn đã từng gặp khó khăn khi lưu và sắp xếp nội dung web chưa? Nếu có, hãy cùng nhau học cách dùng Web Clipper của Notion để “cách mạng hóa” thói quen duyệt web của bạn.
+
+Notion là một app phổ biến trong lĩnh vực sắp xếp và lên kế hoạch công việc. Ngoài ra, bạn có thể nâng cấp quá trình ghi chú và nghiên cứu bằng Notion Web Clipper.
+Notion Web Clipper là một lựa chọn hữu ích trong việc lưu những bài báo và tài liệu ở cùng một nơi, nhưng bạn có thể cảm thấy bối rối khi dùng cũng như thiết lập công cụ này lúc đầu. Đừng lo, hướng dẫn dưới đây sẽ giúp bạn.
+Notion Web Clipper cho phép bạn ghim các trang vào Notion khi online. Lưu ý rằng bạn cần kết nối Internet để làm việc này. Nếu dùng Notion trên smartphone hoặc máy tính bảng, bạn sẽ thấy công cụ này đã được tích hợp sẵn nên không cần phải tải thêm bất kỳ bổ sung nào.
+Đối với máy tính, bạn cần tải & cài extension Notion Web Clipper cho trình duyệt web Safari và Google Chrome, Firefox.
+Download: Notion for Safari | Google Chrome | Firefox (Miễn phí)
+Sau khi ghim một trang web trong trình duyệt, tiện ích này sẽ tạo một trang phụ trong app Notion. Tại đây, bạn sẽ thấy đầy đủ nội dung được viết và trang đó cũng bao gồm ảnh ở văn bản.
+Bạn có thể chọn không gian làm việc muốn Notion Web Clipper lưu trang. Sau khi hoàn tất và đã lưu mọi thứ, bạn có thể tùy biến như ý muốn. Ngoài ra, bạn có thể truy cập trang đã lưu từ mọi thiết bị hỗ trợ Notion.
+Notion Web Clipper cho phép bạn ghim các trang vào Notion dù đang online hoặc offline. Tuy nhiên, hiện tại Notion đã hạn chế lưu offline với một số ứng dụng. Vì thế, rất có thể bạn cần online để truy cập trang của bạn.
+Bạn có thể dùng Notion Web Clipper miễn phí nhưng sẽ bị giới hạn tính năng.
+Nếu dự định dùng Notion Web Clipper trên desktop, bạn sẽ cần tải extension này. Làm việc đó khá đơn giản. Bạn có thể tải nó ngay từ web Notion.
+Bài viết lấy ví dụ trên Google Chrome.
+1. Tới Notion Web Clipper.
+2. Trong phần Notion Web Clipper, ở phía trên đầu của trang, bạn sẽ thấy thông báo nhắc tải extension này cho trình duyệt. Click lựa chọn bạn cần.
+
+3. Nếu được yêu cầu, xác nhận rằng bạn muốn thêm tiện ích Notion Web Clipper. Trong ví dụ này, click Add to Chrome.
+
+4. Bạn có thể thấy cửa sổ pop-up hiện ra. Xác nhận lại lựa chọn nếu muốn.
+
+Sau khi hoàn thành các bước kể trên, bạn có thể dùng Notion Web Clipper sau một vài giây. Nếu không thấy logo của nó, đóng và mở lại trình duyệt.
+1. Truy cập trang web bạn muốn ghim vào Notion.
+2. Tới logo Notion mà bạn sẽ thấy cạnh thanh URL.
+
+3. Chọn vị trí trong Notion tại nơi bạn muốn lưu trang web đã ghim.
+
+4. Nhấn phím Enter hoặc nút Save page khi đã sẵn sàng.
+Quá trình lưu trang web trong Notion sẽ khác nếu bạn làm việc này trên smartphone hoặc máy bính bảng. Các bước cơ bản như sau:
+Sau khi ghim một nguồn online, bạn sẽ thấy trang này ở cùng một nơi đã lưu nó trong Notion. Sau khi click vào trang đã lưu, nội dung bạn thấy tùy thuộc vào kiểu media đã ghim.
+Nếu ghim một bài báo online, bạn sẽ thấy toàn bộ phần nội dung kèm hình ảnh bên trong. Ví dụ:
+
+Nếu lưu video trên YouTube hay tương tự như thế, Notion sẽ nhúng video vào trong trang của bạn. Ví dụ:
+
+Ngoài trang đã lưu, bạn cũng sẽ thấy liên kết tới bài viết online gốc.
+Sau khi lưu trang trong Notion, bạn có thể muốn tùy biến văn bản bằng cách highlight hoặc in nghiêng nó. Bạn có thể định dạng text trong Notion như ý muốn, ví dụ đổi màu, tạo callout hay in đậm văn bản.
+Để tùy biến nội dung trang web Notion đã ghim:
+1. Highlight câu, đoạn văn hay nội dung muốn điều chỉnh.
+
+2. Chọn hành động muốn thực hiện. Ở đây là thêm callout.
+Sau khi chọn tác vụ, Notion sẽ thực hiện các thay đổi và bạn sẽ thấy kết quả ngay lập tức.
+
+Nhìn chung, Notion Web Clipper là một công cụ tiện ích cho người làm nghiên cứu và muốn lưu nhiều liên kết tham khảo cho công việc.
+Hi vọng hướng dẫn hữu ích với các bạn.
